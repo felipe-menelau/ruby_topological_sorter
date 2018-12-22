@@ -1,6 +1,5 @@
 class Graph
   require 'set'
-  attr_reader :graph
 
   def initialize
     @graph = {}
